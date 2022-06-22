@@ -1,5 +1,5 @@
 # HotelSystem (http://caliskanhotel.rf.gd/)
-Hotel System Written From Php, Css and Hmtl with MySQL support
+Hotel System Written From Php, Css and Hmtl with MySQL support.<br />
 The main idea is to let user get a membership from site and be able to reserve one of the three hotel rooms.<br />
 This is what website basically looks like:
 ![image](https://user-images.githubusercontent.com/75085482/175132442-426df356-92f5-47f2-ac67-8fb44a81fa44.png)
