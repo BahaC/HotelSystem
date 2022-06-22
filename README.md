@@ -9,6 +9,6 @@ To try it on local host, you need apache and SQL server,
 when both of them are available in your computer and runned,
 search for localhost/phpmyadmin from your browser to reach to the phpMyAdmin panel.
 Then you need to create a new database with optional name and import sql file added to this repo.
-So you have your database created. As a last step, you need to copy all the files added to this repo
+So you have your database created. As a last step, you need to copy all the files inside of htdocs added to this repo
 (css, php etc.) to xampp/htdocs directory in your computer after you clear inside of directory. 
 Now you can reach hotel system from localhost/index.php from your browser
